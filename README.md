@@ -1,3 +1,7 @@
+# Trilogy Comics
+
+This project is taking a small comic store in virginia and updating their website. This will give the viewers an easier way to see the comics and manga they have in the store as well as make the website all around more comfortable to navigate.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
